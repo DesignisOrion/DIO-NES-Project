@@ -1,0 +1,50 @@
+html,
+body,
+pre,
+code,
+kbd,
+samp {
+  font-family: "Press Start 2P" sans-serif;
+}
+
+body {
+  margin: 20px;
+}
+
+#logo {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  color: orange;
+}
+
+.subtitle {
+  color: red;
+}
+
+.welcome-msg {
+  color: white;
+}
+
+.start-btn {
+  display: flex;
+  justify-content: center;
+}
+
+.nes-btn:hover {
+  background-color: green;
+  color: white;
+}
+
+#faveGamesLogo {
+  display: flex;
+  justify-content: center;
+}
+
+h4 {
+  display: flex;
+  text-align: center;
+  color: red;
+}
